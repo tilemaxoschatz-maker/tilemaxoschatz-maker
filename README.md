@@ -21,7 +21,8 @@ I turn raw datasets into business decisions using Python, statistics, and clear 
 
 <table>
 <tr>
-<td width="180"><img src="images/creditrisk.png" width="160"/></td>
+<img width="871" height="463" alt="image" src="https://github.com/user-attachments/assets/946fa3c3-3809-40f1-b0d4-a387021712ea" />
+
 <td>
 
 **[💳 Credit Risk & Portfolio Analytics](https://github.com/tilemaxoschatz-maker/credit_risk_dataset-)**
